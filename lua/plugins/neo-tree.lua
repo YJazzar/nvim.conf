@@ -10,4 +10,5 @@ return {
 		"nvim-tree/nvim-web-devicons", -- optional, but recommended
 	},
 	lazy = false, -- neo-tree will lazily load itself
+    enabled = false, -- disable it bc it's annoying me rn
 }
